@@ -10,7 +10,7 @@
 ### The projects will release in the next time.
 + Blog (https://dnguyen.xyz)
 + Ecommmece system (https://dnshop.xyz)
-+ Learning online (https://dnsoft-learning.xyz)
++ Learning online (https://dnsoft-elearning.xyz)
 
 ### Contact me at
 + Email: dong.paul2810@gmail.com
