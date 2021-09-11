@@ -11,3 +11,8 @@
 + Blog (https://dnguyen.xyz)
 + Ecommmece system (https://dnshop.xyz)
 + Learning online (https://dnsoft-learning.xyz)
+
+### Contact me at
++ Email: dong.paul2810@gmail.com
++ Facebook: https://www.facebook.com/dongnguyen1994
++ Youtube: https://www.youtube.com/channel/UCSrp0nwQlbYCt8lqXlH25Tw
