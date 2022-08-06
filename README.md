@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Dong Nguyen. And I'm a software engineer at Napa Global.
+### I'm Dong Nguyen. And I'm a fullstack software engineer.
 
 👨‍💻 I’m currently working on web development technologies such as PHP, Laravel, JavaScript, MERN Stack, Blockchain with Solidity, etc.<br />
 📚 Every day I'm constantly learning and updating new technology to meet the requirements of work.<br />
