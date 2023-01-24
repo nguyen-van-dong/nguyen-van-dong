@@ -7,8 +7,8 @@
 🎯 Future Goals: Become a full-stack developer and the Manager.<br />
 ⚡ Fun fact: Open and friendly, love the people and love to play football & coding.<br />
 
-### The projects will release in the next time.
-+ Blog (https://dnguyen.xyz)
+### The projects will released and will release in the next time.
++ Blog (https://dnsoft.xyz)
 + Ecommmece system (https://dnshop.xyz)
 + Learning online (https://dnsoft-elearning.xyz)
 
