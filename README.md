@@ -8,9 +8,9 @@
 ⚡ Fun fact: Open and friendly, love the people and love to play football & coding.<br />
 
 ### The projects will released and will release in the next time.
-+ Blog (https://dnsoft.xyz)
-+ Ecommmece system (https://dnshop.xyz)
-+ Learning online (https://dnsoft-elearning.xyz)
++ Blog (https://dnsoft.vn)
++ Ecommmece system (https://shop.dnsoft.vn)
++ Learning online (https://online.dnsoft.vn)
 
 ### Contact me at
 + Email: dong.paul2810@gmail.com
